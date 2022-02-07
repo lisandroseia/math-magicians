@@ -6,10 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-         nothing made yet,only setup
-        </p>
-        
+        <p>nothing made yet,only setup</p>
       </header>
     </div>
   );
