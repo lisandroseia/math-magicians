@@ -2,18 +2,14 @@
 
 # Capstone 2
 
-In this capstone we worked with gitflow in a project that displays items from an API and let you add likes and comments to them
+In this mileston I made a calculator UI with react components
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 ## Built With
 
-- HTML, CSS & JavaScript
-- Github, Webpack, APIs
-
-## Live Demo (if available)
-
-[Live Demo Link](https://joseheco.github.io/Capstone-2/)
+- CSS & JavaScript
+- Github, Webpack, APIs & React
 
 ## Getting Started
 
@@ -21,7 +17,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-Clone the repo runing 'git clone https://github.com/joseheco/Capstone-2.git'
+Clone the repo runing 'git clone https://github.com/lisandroseia/math-magicians.git'
 
 ### Install
 
@@ -29,11 +25,8 @@ Run 'npm install' to install all dependancies
 
 ### Usage
 
-Run 'npm run dev' to open the server, you will see the link to that server in the terminal
-
-### Run tests
-
-To run tests cases Run the comman 'npm run test'
+Run 'npm run build' to set a local copy.
+Run 'npm start' to open a localhost
 
 ## Authors
 
@@ -42,17 +35,11 @@ To run tests cases Run the comman 'npm run test'
 - GitHub: [@lisandroseia](https://github.com/lisandroseia)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lisandro-seia-295120225/)
 
-👤 **Author2**
-
-- GitHub: [@JoseHeco](https://github.com/joseheco)
-- Twitter: [@JoseHeco](https://twitter.com/joseheco)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/joseherreraco)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/joseheco/Capstone-2/issues).
+Feel free to check the [issues page](https://github.com/lisandroseia/math-magicians/issues).
 
 ## Show your support
 
