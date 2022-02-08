@@ -53,4 +53,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/joseheco/Capstone-2/blob/develop/MIT.md) licensed.
+This project is [MIT](https://github.com/lisandroseia/math-magicians/blob/ui/MIT.md) licensed.
