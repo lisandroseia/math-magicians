@@ -1,15 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+/** @format */
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>nothing made yet,only setup</p>
-      </header>
-    </div>
-  );
+import React from 'react';
+import './App.css';
+import Calculator from './components/Calculator';
+
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
+  render() {
+    return <Calculator />;
+  }
 }
 
 export default App;
