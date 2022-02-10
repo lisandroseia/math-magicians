@@ -12,7 +12,7 @@ const useOps = (initial) => {
   return { ops, handleClick };
 };
 
-function Calculator() {
+const Calculator = () => {
   const { ops, handleClick } = useOps({
     total: null,
     next: null,
@@ -88,6 +88,6 @@ function Calculator() {
       </div>
     </div>
   );
-}
+};
 
 export default Calculator;
