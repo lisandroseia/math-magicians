@@ -2,7 +2,7 @@
 
 # Capstone 2
 
-In this mileston I made a calculator UI with react components, that works perfectly, performing all the math operations
+In this project I made a react component to render a calculator using hooks.
 
 ![screenshot](./screenshot.png)
 
