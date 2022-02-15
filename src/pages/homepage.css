@@ -1,0 +1,16 @@
+.homeSection {
+  display: flex;
+  flex-direction: column;
+  gap: 3.125rem;
+  width: 80%;
+  margin: 100px auto;
+}
+
+.homeSection > p {
+  color: #646262;
+  width: 80%;
+}
+
+.homeSection > h2 {
+    font-size: 40px;
+}
