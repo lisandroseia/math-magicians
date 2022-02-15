@@ -1,0 +1,17 @@
+.quote-cont {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 100px auto;
+}
+
+.quote-cont > cite {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.quote-cont > i {
+  text-align: end;
+  margin-right: 50px;
+  color: #646262;
+}
