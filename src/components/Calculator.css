@@ -6,7 +6,7 @@
 .calc-container {
   display: flex;
   flex-direction: column;
-  width: 30%;
+  width: 400px;
   border: 1px solid #000;
 }
 
