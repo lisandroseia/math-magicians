@@ -1,9 +1,9 @@
-.calcPage{
-    display: flex;
-    justify-content: space-between;
-    margin: 20px 10%;
+.calcPage {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 10%;
 }
 
-.calcText{
-   font-size: 40px;
+.calcText {
+  font-size: 40px;
 }

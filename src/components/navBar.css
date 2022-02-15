@@ -1,25 +1,25 @@
-main{
-    display: flex;
-    width: 70%;
-    margin: auto;
-    justify-content: space-between;
-    padding-top: 1%;
+main {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  justify-content: space-between;
+  padding-top: 1%;
 }
 
-h1{
-    color: #808080;
+h1 {
+  color: #808080;
 }
 
-ul{
-    display: flex;
-    gap: .625rem;
+ul {
+  display: flex;
+  gap: 0.625rem;
 }
 
 .link {
-    text-decoration: none;
-    color: #ffa500;
+  text-decoration: none;
+  color: #ffa500;
 }
 
-li{
+li {
   list-style: none;
 }
