@@ -6,6 +6,11 @@ In this project I made a react component to render a calculator using hooks.
 
 ![screenshot](./screenshot.png)
 
+## Live demo
+
+[heroku](https://mth-magicians.herokuapp.com/);
+[netlify](https://mth-magicians.netlify.app/);
+
 ## Built With
 
 - CSS & JavaScript
